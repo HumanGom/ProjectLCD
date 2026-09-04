@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a4a6cd7300257b4b8e067b92830cb3c, type: 3}
+  m_Name: Sword Master Skill3
+  m_EditorClassIdentifier: Assembly-CSharp::SwordMasterSkill
+  skillType: 3
+  skillName: "\uD654\uC5FC \uBCA0\uC5B4 \uAC00\uB974\uAE30"
+  icon: {fileID: 21300000, guid: 82c6986ebcd114543b081184f46f889f, type: 3}
+  slotColor: {r: 1, g: 1, b: 1, a: 1}
+  elementType: 0
+  attackType: 0
+  defaultAttackLevel: 0
+  defaultDefenseLevel: 0
+  basiclSkillPower: 6
+  finalCoinPower: 0
+  coinPower: 2
+  skillCoinList:
+  - {fileID: 11400000, guid: fcc612ec3003ab948a53344171ed0e2f, type: 2}
+  - {fileID: 11400000, guid: fcc612ec3003ab948a53344171ed0e2f, type: 2}
+  - {fileID: 11400000, guid: db6050f1f05ea56469625813ba65ac4b, type: 2}

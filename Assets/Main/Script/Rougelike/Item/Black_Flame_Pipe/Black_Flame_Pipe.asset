@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: decf42baea60d614ea4ee360e2d04a10, type: 3}
+  m_Name: Black_Flame_Pipe
+  m_EditorClassIdentifier: Assembly-CSharp::TestItem
+  itemName: "\uD751\uC5FC \uD30C\uC774\uD504"
+  itemGrade: 3
+  itemSprite: {fileID: 21300000, guid: 6261be0d81adbed4e8a9d2a8cac16bc4, type: 3}
+  keyword: 9
+  price: 252
+  itemInfoString: "\uB9E4\uD134 \uC2DC\uC791 \uC804\uC5D0 1\uBC88 \uD3B8\uC131 \uC544\uAD70\uC5D0\uAC8C
+    1\uAE30\uBCF8 \uC704\uB825 \uC99D\uAC00\uC640 1\uCDE8\uC57D\uC744 \uBD80\uC5EC\uD568"

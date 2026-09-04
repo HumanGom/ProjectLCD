@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01aa8ae58818f0245a23ac8da840611a, type: 3}
+  m_Name: TestSkill2
+  m_EditorClassIdentifier: Assembly-CSharp::TestSkill
+  skillType: 2
+  skillName: TestSkill2
+  icon: {fileID: 0}
+  slotColor: {r: 0.96264267, g: 0, b: 1, a: 1}
+  elementType: 6
+  attackType: 3
+  defaultAttackLevel: 0
+  defaultDefenseLevel: 0
+  basiclSkillPower: 4
+  finalCoinPower: 0
+  coinPower: 4
+  skillCoinList:
+  - {fileID: 11400000, guid: fcc612ec3003ab948a53344171ed0e2f, type: 2}
+  - {fileID: 11400000, guid: 82cccce70c14d184397a8ab0de7e1291, type: 2}

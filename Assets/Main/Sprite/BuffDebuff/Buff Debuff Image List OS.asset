@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 220fb832e7c0ed94991bc047fe227c01, type: 3}
+  m_Name: Buff Debuff Image List OS
+  m_EditorClassIdentifier: Assembly-CSharp::BuffDebuffImageListOS
+  sprites:
+  - {fileID: 21300000, guid: d29a8b6f3b0d0ee44838379335140ffd, type: 3}
+  - {fileID: 21300000, guid: 0347c198acf01894381341b16989f066, type: 3}
+  - {fileID: 21300000, guid: b23f1489a931cc0409018a14a7c86316, type: 3}
+  - {fileID: 21300000, guid: 148efa07b70da2546a20bd0c92fe7122, type: 3}
+  - {fileID: 21300000, guid: dedaf842f9eb254428f394bba0b1b204, type: 3}
+  - {fileID: 21300000, guid: e6827845e3b1bea4facfb9b29ca9a7ee, type: 3}
+  - {fileID: 21300000, guid: 3e2e6110e18948944ba3d6729b4837bc, type: 3}
+  - {fileID: 21300000, guid: 51c64f6648fe4c64c9c3d86908717819, type: 3}
+  - {fileID: 21300000, guid: b50b76668452f2a479b462e39f13c50f, type: 3}
+  - {fileID: 21300000, guid: ada84a51d8f4f624da932e5a695df1ba, type: 3}
